@@ -1,0 +1,2 @@
+# Asymmetric-Pass-Through-of-Commodity-Terms-of-Trade-Shocks-to-Inflation-in-African-Economies
+This paper examines how commodity terms-of-trade shocks pass through to inflation in 15 African economies (2003–2026). Using panel local projections, it finds pass-through is asymmetric and regime-dependent: adverse shocks are strongly inflationary under flexible regimes but mildly disinflationary under the CFA franc peg.
